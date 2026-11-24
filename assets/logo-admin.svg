@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- Gear -->
+  <g fill="#3b82f6">
+    <circle cx="128" cy="110" r="48"/>
+    <circle cx="128" cy="110" r="20" fill="none"/>
+    <g stroke="#3b82f6" stroke-width="14" stroke-linecap="round">
+      <line x1="128" y1="50" x2="128" y2="30"/>
+      <line x1="128" y1="170" x2="128" y2="190"/>
+      <line x1="68" y1="110" x2="48" y2="110"/>
+      <line x1="188" y1="110" x2="208" y2="110"/>
+      <line x1="86" y1="68" x2="72" y2="54"/>
+      <line x1="170" y1="152" x2="184" y2="166"/>
+      <line x1="86" y1="152" x2="72" y2="166"/>
+      <line x1="170" y1="68" x2="184" y2="54"/>
+    </g>
+  </g>
+  <!-- Anvil -->
+  <g fill="#facc15">
+    <polygon points="70,175 186,175 165,200 91,200"/>
+    <rect x="110" y="200" width="36" height="28" rx="4"/>
+  </g>
+</svg>
